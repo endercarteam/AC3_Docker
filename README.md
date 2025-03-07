@@ -11,8 +11,9 @@ mediante el uso de un archivo .sh (shell) sera posible ejecutar archivos que se 
 - tener Docker instalado
 - usar una terminal Alpine Linux
 - instalar git
-## Nota importante:
-de preferencia usar esta iplementacion en una terminal proporcionada en el laboratorio docker "Play with docker" link: https://labs.play-with-docker.com/
+## Notas importante:
+- de preferencia usar esta iplementacion en una terminal proporcionada en el laboratorio docker "Play with docker" link: https://labs.play-with-docker.com/
+- la primera vez que se ejecute un archivo de una extencion que aun no ha sido usada, se instalaran en los contenedores de ejecucion las dependencias necesarias, esto sera automatico, el usuario solo debera ingresar el archivo con su extencion de la manera indicada mas adelante.
 ## Pasos para la ejecucion
 # solo hace falta copiar y pegar en la consola (shift + insert) los comandos
 1. git clone "https://github.com/endercarteam/AC3_Docker.git"
