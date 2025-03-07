@@ -27,7 +27,7 @@ mediante el uso de un archivo .sh (shell) sera posible ejecutar archivos que se 
 si usted desea ejecutar un archivo propio siga estos pasos, despues de seguir los de ejecucion
 ### instalar editor de texto
 1. apk add nano
-### crear el archivo, de la manera mostrada "nombre archivo.extencion"
+### crear el archivo, de la manera mostrada "nombreArchivo.extencion"
 2. nano nombre.py
 ### copiar codigo fuente al archivo recien creado
 3. shift + insert
