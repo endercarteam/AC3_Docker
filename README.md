@@ -18,7 +18,7 @@ de preferencia usar esta iplementacion en una terminal proporcionada en el labor
 1. git clone "https://github.com/endercarteam/AC3_Docker.git"
 2. cd AC3_Docker
 3. chmod +x run.sh
-### cada vez que nos dispongamos a ejecutar un programa ejecutar este comando   
+### cada vez que nos dispongamos a ejecutar un programa enviar este comando   
 5. ./run.sh
 ### se nos pedira en consola que digitemos el nombre del archivo, digitarlo sin espacios y con su respectiva extencion, como el ejemplo que aparece abajo   
 6. validacion1.py
