@@ -1,6 +1,6 @@
 # AC3_Docker
 ## Descripcion:
-mediante el uso de un archivo .sh (shell) sera posible ejecutar archivos que se encuentren dentro de la carpeta del mismo archivo consolo colocar el nombre del archivo y su extencion de la siguiente manera nombrearchivo.py 
+mediante el uso de un archivo .sh (shell) sera posible ejecutar archivos que se encuentren dentro de la carpeta del mismo archivo con solo colocar el nombre del archivo y su extencion de la siguiente manera nombrearchivo.py 
 ## Lenguajes soportados:
 - Java
 - Python
